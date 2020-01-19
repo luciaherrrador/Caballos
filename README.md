@@ -1,68 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Side Project
+Objetivos personales con este proyecto:
+    • Mejorar los conocimientos de maquetación con CSS:
+    • (usar tablas)
+    • Mejorar mis conocimientos de JavaScript y React:
+        ◦ Manejo de arrays y objetos.
+        ◦ Realización de llamadas a un API en serie o en paralelo.
+        ◦ Realizar una interfaz de usuario dinámica.
+Objetivo del proyecto:
+La funcionalidad principal sería tener una aplicación web que facilitara pronosticar la siguiente apuesta con las siguientes características:
+    • Quiero una interfaz de usuario:
+        ◦ que muestre una tabla por caballo con sus últimas actuaciones y más info.
+        ◦ que muestre un cuadro de búsqueda por nombre
+Fases del proyecto:
+Fase 1:
+Descripción:
+Hacer un cuadro con un input y botón de búsqueda.
+Para lo cual quiero:
+    • Obtener los datos del servidor.
+    • Pintar los resultados en tablas.
+Requisitos técnicos
+Voy a necesitar:
+    • Un fetch para coger los datos de un servidor.
+    • Manejo de arrays para pintar los datos.
+    • Maquetación (tablas).
+2. Prototipo
+3. Planificación
+Tareas de la fase 1: (to do)
+1. Crear la estructura básica del proyecto.
+2. Realizar la petición al servidor.
+3. Pintar los datos en pantalla.
+4. Maquetar.
+4. Desarrolla
+5. Feedback y valoración
+Para saber si he cumplido mi objetivo voy a:
+    • Probar la aplicación con datos de entrada correctos.
+    • Probar la aplicación con datos de entrada incorrectos.
+    • Mostrárselo a alguien para que me dé feedback.
+      

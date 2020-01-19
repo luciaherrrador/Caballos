@@ -10,7 +10,7 @@ Objetivos personales:
         
 Objetivo del proyecto:
 
-La funcionalidad principal sería tener una aplicación web que facilitara pronosticar la siguiente apuesta con las siguientes características:
+La funcionalidad principal sería tener una aplicación web que facilitara pronosticar ganadores con las siguientes características:
 
     • Quiero una interfaz de usuario:
         ◦ que muestre una tabla por caballo con sus últimas actuaciones y más info.
@@ -49,6 +49,7 @@ Tareas de la fase 1: (to do)
 5. Feedback y valoración
 
 Para saber si he cumplido mi objetivo voy a:
+
     • Probar la aplicación con datos de entrada correctos.
     • Probar la aplicación con datos de entrada incorrectos.
     • Mostrárselo a alguien para que me dé feedback.
